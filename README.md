@@ -8,3 +8,4 @@ In this project I combine the following technologies:
 - TypeScript;
 - JSX;
 - WebPack.
+
